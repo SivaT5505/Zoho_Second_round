@@ -1,3 +1,8 @@
+/*
+Output:
+abbccccccccccc
+*/
+
 import java.util.*;
 
 public class TimesofCharacter {
